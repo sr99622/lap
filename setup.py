@@ -13,7 +13,7 @@ else:
     import builtins
 builtins.__LAP_SETUP__ = True
 
-DISTNAME = 'lap'
+DISTNAME = 'lap_sdist'
 DESCRIPTION = 'Linear Assignment Problem solver (LAPJV/LAPMOD).'
 LONG_DESCRIPTION = """
 **lap** is a linear assignment problem solver using Jonker-Volgenant
